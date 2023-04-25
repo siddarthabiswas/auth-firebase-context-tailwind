@@ -39,7 +39,7 @@ const Login = () => {
                             <button className="btn btn-primary">Login</button>
                         </div>
                     </form>
-                    <Link to='/register'> <button className="btn btn-active btn-link">NEW TO AUTH MASTER</button>
+                    <Link to='/register'> <button className="btn  btn-link">NEW TO AUTH MASTER</button>
 </Link>
                 </div>
             </div>
